@@ -3,7 +3,7 @@
 - Single Responsibility Pattern
 
 ### Installation steps
-1. clone project
+1. clone project `git clone https://github.com/RefaatMahmoud/Attendance-Task.git`
 2. cd to your project and run `composer update`
 3. create `.env` file as `.en.example`
 4. generate key `php artisan key:generate`
@@ -16,5 +16,5 @@
 - password : `admin`
 
 ### Challenge Idea
-Attendance System Sample But it's WIP `Working In Progress`
+Attendance System Sample But this task still WIP `Working In Progress`
 
