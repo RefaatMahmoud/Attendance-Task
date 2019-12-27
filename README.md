@@ -3,7 +3,7 @@
 - Single Responsibility Pattern
 
 ### Installation steps
-1. clone project `git clone https://github.com/RefaatMahmoud/Parent_Assessment.git` 
+1. clone project
 2. cd to your project and run `composer update`
 3. create `.env` file as `.en.example`
 4. generate key `php artisan key:generate`
